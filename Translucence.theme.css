@@ -1,19 +1,19 @@
 /**
  * @name Translucence
- * @version 1.0.6.3
+ * @version 1.0
  * @description A translucent/frosted glass Discord theme
- * @author CapnKitten
+ * @author Berus
  * 
- * @website http://github.com/CapnKitten
- * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
- * @donate https://paypal.me/capnkitten
- * @invite jzJkA6Z
+ * @website https://github.com/berusvn/theme-betterdiscord
+ * @source https://github.com/berusvn/theme-betterdiscordhttps://github.com/berusvn/theme-betterdiscord
+ * @donate https://github.com/berusvn/theme-betterdiscord
+ * @invite 
  */
 
-@import url('file:///C:/Users/Administrator/AppData/Roaming/BetterDiscord/themes/css.css');
+@import url('https://raw.githubusercontent.com/berusvn/theme-betterdiscord/main/css.css');
 
 :root {
-	--app-bg: url('file:///C:/Users/Administrator/Pictures/Flat/Morning.jpg');
+	--app-bg: url('https://raw.githubusercontent.com/berusvn/theme-betterdiscord/main/Morning.jpg');
 	--app-blur: 6px;
 	--app-margin: 24px;
 	--app-radius: 8px;
